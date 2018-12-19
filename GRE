@@ -1,0 +1,105 @@
+[
+{
+ 		"category": "GRE Vocabuary Practice",
+ 		"question": "fallacious",
+ 		"answers": [
+ 			"deserved and unavoidable punishment for wrong doing ",
+ 			"unlucky",
+ 			"complex; subtle; refined",
+ 			"based on error"
+ 		],
+ 		"correctAnswerIndex": 3,
+ 		"feedback": "It rested on a mass of legal assumptions and subtleties, fallacious indeed, but ingenious, and, as the result proved, effective."
+ 	},
+ 	{
+ 		"category": "GRE Vocabuary Practice",
+ 		"question": "quiescence",
+ 		"answers": [
+ 			"a loud domineering woman a scold or nag ",
+ 			"customers",
+ 			"state of being passive/motionless ",
+ 			"exuberance outburst of feeling"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "Many of the Icelandic volcanoes during their periods of quiescence are covered with snow and ice."
+ 	},
+ 	{
+ 		"category": "GRE Vocabuary Practice",
+ 		"question": "beatify",
+ 		"answers": [
+ 			"to attack verbally; denounce; deprecate ",
+ 			"keep away from avoid ",
+ 			"to go away suddenly (to avoid arrest) ",
+ 			"to bless; make happy or ascribe a virtue to"
+ 		],
+ 		"correctAnswerIndex": 3,
+ 		"feedback": "The church was quick to beatify Mary for her role as the mother of Jesus. "
+ 	},
+ 	{
+ 		"category": "GRE Vocabuary Practice",
+ 		"question": "enigma",
+ 		"answers": [
+ 			"inclination ",
+ 			"polite manner; comforting; uninteresting",
+ 			"something that is puzzling ",
+ 			"roughness; harshness; ill temper; irritability "
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "The reason that the source of the noise is such an enigma is that no one ever traced the sound when they heard it."
+ 	},	{
+ 		"category": "GRE Vocabuary Practice",
+ 		"question": "skiff",
+ 		"answers": [
+ 			"small boat",
+ 			"having the qualities of a devil",
+ 			"sharp; piercing ",
+ 			"sealed by fusion "
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "The fisherman hoped that the small skiff would be able to hold all of the fish."
+ 	},	{
+ 		"category": "GRE Vocabuary Practice",
+ 		"question": "turbulence",
+ 		"answers": [
+ 			"being uncontrollably violen",
+ 			"misuse of a word (for one that resembles it) ",
+ 			"tending to evade ",
+ 			"defying; imitation; unmatchable"
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "The little plane danced and swayed in the turbulence, constantly buffeted by the increasing wind."
+ 	},	{
+ 		"category": "GRE Vocabuary Practice",
+ 		"question": "vitiate",
+ 		"answers": [
+ 			"a manner of walking, stepping, or running",
+ 			"blocked up",
+ 			"lower the quality weaken the strength ",
+ 			"speak or behave so as to hide something (in mind) "
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "You made a good decision, so don’t vitiate it by boasting about your success"
+ 	},	{
+ 		"category": "GRE Vocabuary Practice",
+ 		"question": "On the talk show, the mean host usually tries to __________ her guests by reminding them of their misdeeds",
+ 		"answers": [
+ 			"vitiate",
+ 			"beatify",
+ 			"denigrate",
+ 			"pollinate"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "Yes, the host tried to put his guest down by denigrating him."
+ 	},{
+ 		"category": "GRE Vocabuary Practice",
+ 		"question": "Apart from exposure to societal _______, a second community-level risk is the dysfunctional informal social networks.",
+ 		"answers": [
+ 			"stigmas",
+ 			"enigmas",
+ 			"beatification",
+ 			"obfuscation"
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "Yes, a stigma is a mark of disgrace associated with a particular circumstance, quality, or person."
+ 	}
+  ]
