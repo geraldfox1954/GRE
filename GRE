@@ -1,105 +1,542 @@
-[
-{
- 		"category": "GRE Vocabuary Practice",
- 		"question": "fallacious",
- 		"answers": [
- 			"deserved and unavoidable punishment for wrong doing ",
- 			"unlucky",
- 			"complex; subtle; refined",
- 			"based on error"
- 		],
- 		"correctAnswerIndex": 3,
- 		"feedback": "It rested on a mass of legal assumptions and subtleties, fallacious indeed, but ingenious, and, as the result proved, effective."
- 	},
- 	{
- 		"category": "GRE Vocabuary Practice",
- 		"question": "quiescence",
- 		"answers": [
- 			"a loud domineering woman a scold or nag ",
- 			"customers",
- 			"state of being passive/motionless ",
- 			"exuberance outburst of feeling"
- 		],
- 		"correctAnswerIndex": 2,
- 		"feedback": "Many of the Icelandic volcanoes during their periods of quiescence are covered with snow and ice."
- 	},
- 	{
- 		"category": "GRE Vocabuary Practice",
- 		"question": "beatify",
- 		"answers": [
- 			"to attack verbally; denounce; deprecate ",
- 			"keep away from avoid ",
- 			"to go away suddenly (to avoid arrest) ",
- 			"to bless; make happy or ascribe a virtue to"
- 		],
- 		"correctAnswerIndex": 3,
- 		"feedback": "The church was quick to beatify Mary for her role as the mother of Jesus. "
- 	},
- 	{
- 		"category": "GRE Vocabuary Practice",
- 		"question": "enigma",
- 		"answers": [
- 			"inclination ",
- 			"polite manner; comforting; uninteresting",
- 			"something that is puzzling ",
- 			"roughness; harshness; ill temper; irritability "
- 		],
- 		"correctAnswerIndex": 2,
- 		"feedback": "The reason that the source of the noise is such an enigma is that no one ever traced the sound when they heard it."
- 	},	{
- 		"category": "GRE Vocabuary Practice",
- 		"question": "skiff",
- 		"answers": [
- 			"small boat",
- 			"having the qualities of a devil",
- 			"sharp; piercing ",
- 			"sealed by fusion "
- 		],
- 		"correctAnswerIndex": 0,
- 		"feedback": "The fisherman hoped that the small skiff would be able to hold all of the fish."
- 	},	{
- 		"category": "GRE Vocabuary Practice",
- 		"question": "turbulence",
- 		"answers": [
- 			"being uncontrollably violen",
- 			"misuse of a word (for one that resembles it) ",
- 			"tending to evade ",
- 			"defying; imitation; unmatchable"
- 		],
- 		"correctAnswerIndex": 0,
- 		"feedback": "The little plane danced and swayed in the turbulence, constantly buffeted by the increasing wind."
- 	},	{
- 		"category": "GRE Vocabuary Practice",
- 		"question": "vitiate",
- 		"answers": [
- 			"a manner of walking, stepping, or running",
- 			"blocked up",
- 			"lower the quality weaken the strength ",
- 			"speak or behave so as to hide something (in mind) "
- 		],
- 		"correctAnswerIndex": 2,
- 		"feedback": "You made a good decision, so don’t vitiate it by boasting about your success"
- 	},	{
- 		"category": "GRE Vocabuary Practice",
- 		"question": "On the talk show, the mean host usually tries to __________ her guests by reminding them of their misdeeds",
- 		"answers": [
- 			"vitiate",
- 			"beatify",
- 			"denigrate",
- 			"pollinate"
- 		],
- 		"correctAnswerIndex": 2,
- 		"feedback": "Yes, the host tried to put his guest down by denigrating him."
- 	},{
- 		"category": "GRE Vocabuary Practice",
- 		"question": "Apart from exposure to societal _______, a second community-level risk is the dysfunctional informal social networks.",
- 		"answers": [
- 			"stigmas",
- 			"enigmas",
- 			"beatification",
- 			"obfuscation"
- 		],
- 		"correctAnswerIndex": 0,
- 		"feedback": "Yes, a stigma is a mark of disgrace associated with a particular circumstance, quality, or person."
- 	}
-  ]
+[{
+		"category": "GRE Vocabuary Practice",
+		"question": "fallacious",
+		"answers": [
+			"deserved and unavoidable punishment for wrong doing ",
+			"unlucky",
+			"complex; subtle; refined",
+			"based on error"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "It rested on a mass of legal assumptions and subtleties, fallacious indeed, but ingenious, and, as the result proved, effective."
+	},
+	{
+		"category": "GRE Vocabuary Practice",
+		"question": "quiescence",
+		"answers": [
+			"a loud domineering woman a scold or nag ",
+			"customers",
+			"state of being passive/motionless ",
+			"exuberance outburst of feeling"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "Many of the Icelandic volcanoes during their periods of quiescence are covered with snow and ice."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "beatify",
+		"answers": [
+			"to attack verbally; denounce; deprecate ",
+			"keep away from avoid ",
+			"to go away suddenly (to avoid arrest) ",
+			"to bless; make happy or ascribe a virtue to"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "The church was quick to beatify Mary for her role as the mother of Jesus. "
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "enigma",
+		"answers": [
+			"inclination ",
+			"polite manner; comforting; uninteresting",
+			"something that is puzzling ",
+			"roughness; harshness; ill temper; irritability "
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "The reason that the source of the noise is such an enigma is that no one ever traced the sound when they heard it."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "skiff",
+		"answers": [
+			"small boat",
+			"having the qualities of a devil",
+			"sharp; piercing ",
+			"sealed by fusion "
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "The fisherman hoped that the small skiff would be able to hold all of the fish."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "turbulence",
+		"answers": [
+			"being uncontrollably violen",
+			"misuse of a word (for one that resembles it) ",
+			"tending to evade ",
+			"defying; imitation; unmatchable"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "The little plane danced and swayed in the turbulence, constantly buffeted by the increasing wind."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "vitiate",
+		"answers": [
+			"a manner of walking, stepping, or running",
+			"blocked up",
+			"lower the quality weaken the strength ",
+			"speak or behave so as to hide something (in mind) "
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "You made a good decision, so don’t vitiate it by boasting about your success"
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "On the talk show, the mean host usually tries to __________ her guests by reminding them of their misdeeds",
+		"answers": [
+			"vitiate",
+			"beatify",
+			"denigrate",
+			"pollinate"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "Yes, the host tried to put his guest down by denigrating him."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "Apart from exposure to societal _______, a second community-level risk is the dysfunctional informal social networks.",
+		"answers": [
+			"stigmas",
+			"enigmas",
+			"beatification",
+			"obfuscation"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Yes, a stigma is a mark of disgrace associated with a particular circumstance, quality, or person."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "vitiate",
+		"answers": [
+			"a manner of walking, stepping, or running",
+			"blocked up",
+			"lower the quality weaken the strength ",
+			"speak or behave so as to hide something (in mind) "
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "You made a good decision, so don’t vitiate it by boasting about your success"
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "It’s not uncommon to feel __________ for weeks or even months after major surgery.",
+		"answers": [
+			"lethargic",
+			"happy",
+			"insane",
+			"pickled"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Lethargic is to have little energy."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "enmity",
+		"answers": [
+			"laziness ",
+			"(agreement) stop of fighting for a time ",
+			"a beggar ",
+			"hatred being an enemy "
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "  "
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "edible",
+		"answers": [
+			"join (two ends)  ",
+			"fearful timid afraid ",
+			"fit to be eaten/not poisonous ",
+			"pretend"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "The eco-loving Laguna Beach org's Saturday garden tour will focus on edibles and the environment."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "epitome",
+		"answers": [
+			"defect of character (a person is wrongly proud) ",
+			"brief summary representative example a typical model ",
+			"long strip worn round the waist",
+			"reproving a person for his faults "
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "The Kenston senior was the epitome of agony at the end of his tennis match."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "forfeit",
+		"answers": [
+			"predominance ",
+			"praise; approval",
+			"suffer the loss of something ",
+			"alarm excited state of mind"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "The Ridgefield High girls lacrosse team had to forfeit a 17-6 regular-season win over Norwalk on May 17 for using two players who cheated."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "heed",
+		"answers": [
+			"quality of being limited; not extreme",
+			"odious (of crime) ",
+			"quality of being unskillful ",
+			"attention/give notice to "
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "You should heed my warning and not ski down that dangerous slope."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "erratic",
+		"answers": [
+			"reddish, healthy-looking",
+			"irregular in behaviour or opinion",
+			"fertile",
+			"criticism; anti-aircraft guns "
+		],
+		"correctAnswerIndex": 1,
+		"feedback": " He had been at Club 915 prior to his death but club workers asked him to leave because of his erratic behavior."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "tenacity",
+		"answers": [
+			"firmness persistency adhesiveness tending to hang on",
+			"large piece of cloth",
+			"severely moral and strict simple and plain ",
+			"melodious; harmonious"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "His most fearsome weapon was a relentless steellike tenacity."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "beguile",
+		"answers": [
+			"to distress; create stress or torment ",
+			"exercises to develop strong bodies ",
+			"passage that completes a piece of music",
+			"mislead or delude; cheat; pass time"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "Marissa Meyer's favorite novels beguile, thrill and, above all, transport younger readers to a Shakespearean magical theater."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "asterisk",
+		"answers": [
+			"the mark * (e.g.. omitted letters) ",
+			"grow forth send out buds",
+			"write hastily ",
+			"scold sharply "
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "The 2011/12 season will go down in the record books with an asterisk, and so too will the Superbowl Champion Cleveland Browns."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "recreancy",
+		"answers": [
+			"brave",
+			"cowardly",
+			"a place of great prestige",
+			"quibble"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "to act in a cowardly way. "
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "petrous",
+		"answers": [
+			"quick judging and understanding ",
+			"to awaken or rouse",
+			"like a rock hard stony",
+			"get something inquire too curiously"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "Something hard and stony. "
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "brittle",
+		"answers": [
+			"cannot be cured or corrected",
+			"crude; rude",
+			"too economical; miserly",
+			"easily broken"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "Her heart was brittle because of her divorce."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "benefactor",
+		"answers": [
+			"customers ",
+			"a loud domineering woman",
+			"person who has given help",
+			"small sin small weakness in one's character "
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "Richard McNamara, an entrepreneur and one of the University of Minnesota's biggest benefactors, died Monday. "
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "voluptuous",
+		"answers": [
+			"lively high-spirited",
+			"projecting; prominent; undesirably noticeable",
+			"arousing sensual pleasures",
+			"intended to instruct "
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "Her curves are adored by men the world over and she is one of the most voluptuous stars of the moment"
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "submerge",
+		"answers": [
+			" make a humble petition to",
+			"put under water and out of sight",
+			"male bee person who isn't self-employed",
+			"lower the quality weaken the strength"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "You submerge your feet, hands, or even your whole body in water and tiny little Garra Rufa fish do their work to nibble away your dead skin"
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "waffle",
+		"answers": [
+			"curse",
+			"step to one side",
+			"talk vaguely and without much result",
+			"help/encourage somebody"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "The polititian waffled when asked a difficult question."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "imbroglio",
+		"answers": [
+			"refuse to approve of",
+			"a long passionate speech",
+			"greenish-blue precious stone",
+			"complicated and embarrassing situation"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "But what does Dragon Tattoo director Fincher think of the embargo imbroglio? "
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "extempore",
+		"answers": [
+			"illogical of questionable truth or merit",
+			"spending using unwillingly",
+			"without previous thought or preparation",
+			"humorous; funny; jocular"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "Speaking on 'The Role of the Banks in the Privatisation of the Power Sector', which he delivered extempore, Sanusi ..."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "espouse",
+		"answers": [
+			"examine thoroughly to learn about the condition",
+			"To believe in",
+			"taken away power ",
+			"change direction"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Men and women who believed in our country and the values which we espouse"
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "verdant",
+		"answers": [
+			"collapse",
+			"fresh and green",
+			"persevering",
+			"causing no harm"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "Starting from scratch, the red soil was transformed into verdant land by 2009"
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "cohort",
+		"answers": [
+			"secret agreement",
+			"To deprive (someone) of something",
+			"a group or band of people",
+			"watchfulness self-appointed group who maintain order"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "Only three percent (n=181) of patients in the study cohort receiving anti-tumour necrosis factor agents"
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "odious",
+		"answers": [
+			"jesting",
+			"repulsive; hateful",
+			"fond of in the habit of fighting",
+			"changeable inconstant"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "What makes Geert Wilders so odious is that he attacks an entire group based on ethnicity and religion."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "concord",
+		"answers": [
+			"harmony",
+			"refuse to approve of ",
+			"ugly",
+			"trouble disturbance "
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "To live in concord with others is our goal."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "shun",
+		"answers": [
+			"suddenly changeable ",
+			"instruct; correct morally",
+			"steel tool for shaping materials",
+			"keep away from avoid "
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "He said India would try to convince Pakistan through dialogue to shun terror as a state policy."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "quixotic",
+		"answers": [
+			"block",
+			"fanciful, fantastic, imaginary",
+			"settle without permission",
+			"bad-tempered"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "His belief in aliens may be considered quixotic."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "splice",
+		"answers": [
+			"anticipating",
+			"urgent",
+			"foolish",
+			"join (two ends) "
+		],
+		"correctAnswerIndex": 2,
+		"feedback": " "
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "finesse",
+		"answers": [
+			"getting farther apart",
+			"delicate way of dealing with a situation ",
+			"pick flowers",
+			" person who hates mankind "
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "It required all Elizabeths finesse to run with the hare and hunt with the hounds; but she was, as Henry III."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "teetotal",
+		"answers": [
+			"dislike of alcohol",
+			" using pompous words",
+			"eagerly desirous",
+			"disobedient"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "They say they are all teetotalers and have never touched drugs."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "testiness",
+		"answers": [
+			"impatient and bad tempered",
+			"witness",
+			"eager and cheerful",
+			"burning"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "​The testiness between the Huffington Post and New York Times continued late this week with "
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "severance",
+		"answers": [
+			"ending a connection or relationship",
+			"able to use the left hand or the right equally well",
+			"welcomed with shouts and approval ",
+			"refusing to eat"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "A severance payment was made to the former employee one month after she left the organization"
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "soot",
+		"answers": [
+			"covered in hair",
+			"short",
+			"black powder in smoke",
+			"easiy tricked"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "he leaned down; peering through the soot smudged glass on the stove door."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "consummate",
+		"answers": [
+			"to turn to bone",
+			"developed or visible",
+			"get to the root of",
+			"to complete "
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "And yet behind the confident façade of consummate professionalism are a fragility and uncertainty"
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "cogitate",
+		"answers": [
+			"to clear from a charge of guilt",
+			"think deeply mediate",
+			"to awaken or rouse ",
+			"try to win"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "Put your thinking cap on and cogitate upon the reasons why this will not work."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "prevalent",
+		"answers": [
+			"biting sarcastic",
+			"common",
+			"crouch/settle without permission",
+			"legal excuse"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "Infant deaths were especially prevalent among the very poor."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "palatial",
+		"answers": [
+			"needing effort",
+			"magnificent",
+			"shaggy",
+			"showing feeling"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "The suite has a palatial bedroom."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "intersperse",
+		"answers": [
+			"blocked up ",
+			"to praise highly ",
+			"swing loosely ",
+			" place here and there "
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "I always try to intersperse fragrant plants among my zinnias, rudbeckia and echinacea."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "retinue",
+		"answers": [
+			"dangerous ",
+			"growing",
+			"judicial",
+			"attendants "
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "The Queen was flanked by a retinue of bodyguards and policemen."
+	}, {
+		"category": "GRE Vocabuary Practice",
+		"question": "continue doing something",
+		"answers": [
+			"plot",
+			"plod",
+			"plop",
+			"foot"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "Walking through the desrt without water, all he could do is plod on."
+	}
+]
