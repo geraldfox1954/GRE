@@ -1,5 +1,214 @@
 [{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "fashion has a similar meaning to:",
+    "answers": [
+        "style",
+        "marsh",
+        "animal",
+        "pickle"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Fashion is all about style. "
+},{
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Magnanimity has a similar meaning to:",
+    "answers": [
+        "deliverance",
+        "generosity",
+        "software",
+        "robber"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Muazim came down from Kabul, and with characteristic magnanimity or generosity, offered to share the empire with his brother."
+},{
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "Tutor has a similar meaning to:",
+    "answers": [
+        "doctor",
+        "student",
+        "teacher",
+        "fish"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "I need to find a tutor or teacher to help me with my science studies, since I have a rather low grade in class."
+},{
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "Discuss has a similar meaning to:",
+    "answers": [
+        "think over",
+        "dream about",
+        "work at",
+        "talk about"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "We need to discuss or think over your class schedule for next semester."
+},{
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "Tidy has a similar meaning to:",
+    "answers": [
+        "neat",
+        "unhappy",
+        "afraid",
+        "poison"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "The girl’s room was always neat and tidy since she organized her toys and clothes precisely every afternoon."
+},{
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "Remain has a similar meaning to:",
+    "answers": [
+        "yell",
+        "stay",
+        "talk about",
+        "drink"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "They remained  or stayed inside their home during the snow storm."
+},{
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "The store owner checked the ______ of tires and realized he needed to order more.",
+    "answers": [
+        "carpet",
+        "quality",
+        "quantity",
+        "color"
+    ],
+    "correctAnswerIndex":2,
+    "feedback": "Quantity means the amount of something.  They had few tires so they needed to order more."
+},{
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "Even though her legs were larger than the hole in the ______ underwear, they still fit since they could stretch.",
+    "answers": [
+        "erotic",
+        "emotive",
+        "precious",
+        "elastic"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "The underwear needed to stretch or be elastic to fit."
+},{
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "She suffered a wrist _______ when she slipped on the ice.",
+    "answers": [
+        "fracture",
+        "friction",
+        "faction",
+        "fruition"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "She broke her wrist or suffered a fracture. Ouch!"
+},{
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "The teacher threatened to ______ points if the student left off his name.",
+    "answers": [
+        "add",
+        "deduct",
+        "break",
+        "create"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "The teacher would deduct or subtract points if the student forgot to write their name on the paper. "
+},{
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "We huddled in the basement, worried that the hurricane would rip our ______ door off of its hinges",
+    "answers": [
+        "fancy",
+        "frightened",
+        "femoral",
+        "flimsy"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "The door waas weak or flimsy, so they were worried that the wind would destroy it."
+},{
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "Mend has a similar meaning to:",
+    "answers": [
+        "repair",
+        "repeat",
+        "report",
+        "rename"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "There’s no way to mend or repair my broken shoes, so I’ll just need to buy a new pair."
+},{
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "Seclude has a similar meaning to:",
+    "answers": [
+        "sparkle",
+        "isolate",
+        "frighten",
+        "toxic"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "The homeless men like to seclude themselves, preferring to be alone in a private place."
+},{
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Mirage has a similar meaning to:",
+    "answers": [
+        "winner",
+        "line",
+        "illusion",
+        "angry"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "After seeing land, the stranded sailor was happy until he realized the island was a mirage or illusion."
+},{
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "The place was _____ and secluded, and would be a nice place to work.",
+    "answers": [
+        "careful",
+        "quiet",
+        "noisy",
+        "dangerous"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "It would be a nice and quiet place to work. Quiet and secluded seem to go together."
+},{
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "Next I was shown a photograph of a _____ cheeked man about forty, with short hair and a six o'clock shadow.",
+    "answers": [
+        "sad",
+        "rich",
+        "chubby",
+        "bad"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Chubby means a bit fat so the man had fat cheeks."
+},{
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "Explode has a similar meaning to:",
+    "answers": [
+        "trade off",
+        "slink off",
+        "turn down",
+        "blow up"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Explode is something that blows up or goes BOOM!"
+},{
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "Conference has a similar meaning to:",
+    "answers": [
+        "meeting",
+        "harmony",
+        "place mat",
+        "take out food"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "A conference is a type of meeting. If you skip class, I will call to schedule a conference."
+},{
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "Topic has a similar meaning to:",
+    "answers": [
+        "village",
+        "subject",
+        "cucumber",
+        "hat"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "The topic or subject for the class today is biology."
+},{
+    "category": "GRE Basic Vocabuary Practice",
     "question": "Rage has a similar meaning to:",
     "answers": [
         "fury",
@@ -8,9 +217,9 @@
         "kettle"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "Full of rage, the man slammed his fist through the car windshield."
+    "feedback": "Full of rage, the man slammed his fist through the car windshield. Ouch!"
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Basic Vocabuary Practice",
     "question": "Announce has a similar meaning to:",
     "answers": [
         "oversee",
@@ -19,10 +228,10 @@
         "roast"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "A herald sent forward to announce the coming of a king."
+    "feedback": "A herald sent forward to proclaim or announce the coming of the king."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "rival has a similar meaning to:",
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "Rival has a similar meaning to:",
     "answers": [
         "competitor",
         "solve",
@@ -30,9 +239,9 @@
         "lamb"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "The ancient rival of Venice, Genoa, was likewise far gone in decline."
+    "feedback": "The ancient rival of Venice, Genoa, was likewise far gone in decline. "
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Basic Vocabuary Practice",
     "question": "trot has a similar meaning to:",
     "answers": [
         "solve",
@@ -41,9 +250,9 @@
         "appear"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "The horse's name was Prince and he was gentle and liked to trot very fast."
+    "feedback": "The horse's name was Prince and he was gentle and liked to trot or jog very fast."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Basic Vocabuary Practice",
     "question": "Fetch has a similar meaning to:",
     "answers": [
         "inquire",
@@ -52,9 +261,9 @@
         "get"
     ],
     "correctAnswerIndex": 3,
-    "feedback": "Could you go to Peets and fetch me a cup of coffee?"
+    "feedback": "Could you go to Peets and fetch or get me a cup of coffee? Thanks!"
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Basic Vocabuary Practice",
     "question": "Modification has a similar meaning to:",
     "answers": [
         "change",
@@ -62,10 +271,10 @@
         "assistant",
         "wakefulness"
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 0,
     "feedback": "Training wheels are a modification we add to normal bicycles so young children can learn to ride them safely."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Bassic Vocabuary Practice",
     "question": "Deceitful has a similar meaning to:",
     "answers": [
         "entertaining",
@@ -74,10 +283,10 @@
         "plump"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "The salesman was deceitful when describing the car. "
+    "feedback": "The salesman was deceitful when describing the car. In other words, he was dishonest."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "burrow has a similar meaning to:",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Burrow has a similar meaning to:",
     "answers": [
         "tunnel",
         "mar",
@@ -85,9 +294,9 @@
         "ride"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "The rabbit burrowed into the side of the hill. "
+    "feedback": "The rabbit burrowed or tunneled into the side of the hill. "
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "Teeterboard has a similar meaning to:",
     "answers": [
         "contribution",
@@ -96,9 +305,9 @@
         "seesaw"
     ],
     "correctAnswerIndex": 3,
-    "feedback": "The teeterboard (or Korean plank) is an acrobatic apparatus that resembles a playground seesaw."
+    "feedback": "The teeterboard is an acrobatic apparatus that resembles a playground seesaw."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "Vital has a similar meaning to:",
     "answers": [
         "illegal",
@@ -107,9 +316,9 @@
         "essential"
     ],
     "correctAnswerIndex": 3,
-    "feedback": "The question is, however, vital to the atomic theory."
+    "feedback": "The question is, however, vital or essential to the scientific theory."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "Plenteous has a similar meaning to:",
     "answers": [
         "abundant",
@@ -118,9 +327,9 @@
         "understood"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "Rain is most plenteous in the fall in Oregon"
+    "feedback": "Rain is most plenteous or abundant during the fall in Oregon."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "Assess has a similar meaning to:",
     "answers": [
         "deceive",
@@ -129,9 +338,9 @@
         "punch"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "I'll come get you in the morning, so we can assess your skills."
+    "feedback": "I'll come get you in the morning, so we can assess or valuate your skills."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "Pulsate has a similar meaning to:",
     "answers": [
         "illustrate",
@@ -140,9 +349,9 @@
         "throb"
     ],
     "correctAnswerIndex": 3,
-    "feedback": "She stormed out, blood pulsing and headache growing."
+    "feedback": "She stormed out, blood pulsing and headache throbbing."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Basic Vocabuary Practice",
     "question": "Regrettable has a similar meaning to:",
     "answers": [
         "mental",
@@ -151,9 +360,9 @@
         "ruthless"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "After behaving in a regrettable manner at church camp, the young man was forced to give an apology"
+    "feedback": "After behaving in a regrettable manner at church camp, the young man was forced to give an apology. "
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "Mystification has a similar meaning to:",
     "answers": [
         "marriage",
@@ -162,9 +371,9 @@
         "lasso"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "The cause of the disease mystified doctors for many years."
+    "feedback": "The cause of the disease mystified or bewildered doctors for many years."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "Obscure has a similar meaning to:",
     "answers": [
         "underwater",
@@ -175,7 +384,7 @@
     "correctAnswerIndex": 3,
     "feedback": "There was an elevated view of the harbor, partially obscured by trees."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Basic Vocabuary Practice",
     "question": "Totality has a similar meaning to:",
     "answers": [
         "sum",
@@ -184,9 +393,9 @@
         "dance"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "Its doing so depends upon the totality of conditions."
+    "feedback": "Doing so depends upon the totality or sum of conditions."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "Insubordination has a similar meaning to:",
     "answers": [
         "disobedience",
@@ -195,9 +404,9 @@
         "aardvark"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "Whatever quarrels or insubordination might exist within the government, it never broke out into open revolt."
+    "feedback": "Whatever disobedience or insubordination might exist within the government, it never broke out into open revolt."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "Predestination has a similar meaning to:",
     "answers": [
         "bunny",
@@ -206,9 +415,9 @@
         "staff infection"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "Through predestination, God is in control of everything including allowing some to sin and others to be saved."
+    "feedback": "Through predestination or fate, God is in control of everything including allowing some to sin and others to be saved."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE  Intermediate Vocabuary Practice",
     "question": "Superficial has a similar meaning to:",
     "answers": [
         "luscious",
@@ -217,9 +426,9 @@
         "fates"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "The same plants have sometimes a superficial root system and can be easily pulled up."
+    "feedback": "The same plants have sometimes a superficial or shallow root system and can be easily pulled up."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE  Intermediate Vocabuary Practice",
     "question": "Gargantuan has a similar meaning to:",
     "answers": [
         "unreasonable",
@@ -230,7 +439,7 @@
     "correctAnswerIndex": 1,
     "feedback": "The gargantuan steel structure of La Tour Eiffel dwarfs the modern city as it has done for more than 115 years."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "Writhe has a similar meaning to:",
     "answers": [
         "draw",
@@ -239,9 +448,9 @@
         "ride"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "After being hit by the bat, the baseball player could only writhe on the ground and hold his head."
+    "feedback": "After being hit by the pitch, the baseball player could only writhe on the ground and hold his head."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "Podiatrist has a similar meaning to:",
     "answers": [
         "foot doctor",
@@ -250,9 +459,9 @@
         "insulting lawyer"
     ],
     "correctAnswerIndex": 0,
-    "feedback": " "
+    "feedback": "Yes, pod is a prefix that often means foot so a podiatrist is a foot doctor. "
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "Chasten has a similar meaning to:",
     "answers": [
         "discipline",
@@ -261,9 +470,9 @@
         "obscure"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "As a parent, I don’t feel spanking is a good way to chasten your kids"
+    "feedback": "As a parent, I don’t feel spanking is a good way to chasten or discipline your kids"
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "Demeanor has a similar meaning to:",
     "answers": [
         "contamination",
@@ -272,9 +481,9 @@
         "advantage"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "Anne's calm demeanor immediately put me at ease."
+    "feedback": "Anne's calm behavior or demeanor immediately put me at ease."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "As soon as the home team scored, the fans became ________ in their excitement.",
     "answers": [
         "clamorous",
@@ -282,10 +491,10 @@
         "fabulous",
         "intoxicated"
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 0,
     "feedback": "Clamorous is to be loud or noisy. The fans became noisy when their team won."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "______ in armor, the knight was prepared to fight for the fair maiden.",
     "answers": [
         "Plaid",
@@ -296,7 +505,7 @@
     "correctAnswerIndex": 1,
     "feedback": "Clad means to wear so the knight was wearing armor."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "She found _____ in writing when her father died.",
     "answers": [
         "solidarity",
@@ -307,7 +516,7 @@
     "correctAnswerIndex": 3,
     "feedback": "Solace is a source of comfort or consolation. So, writing helped her feel more at ease."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "The broken glass he stepped on ______ his feet.",
     "answers": [
         "infiltrated",
@@ -320,7 +529,7 @@
 },
 
 {
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "She ____ elements of jazz and rock in her music. ",
     "answers": [
         "disintegrates",
@@ -331,7 +540,7 @@
     "correctAnswerIndex": 2,
     "feedback": "She combines or integrates both styles into her music."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "During the hottest days of summer I feel so ____ that all I want to do is drink iced tea and sleep.",
     "answers": [
         "clamorous",
@@ -340,9 +549,9 @@
         "lacerated"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "it was so hot that he felt lazy and tired because of the heat. He was lethargic."
+    "feedback": "I:t was so hot that he felt lazy and tired because of the heat. He was lethargic."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "The students stopped listening when their teacher started to ________ in a tone that implied they were stupid.",
     "answers": [
         "pontificate",
@@ -351,9 +560,9 @@
         "believe"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "Pontificate is to  speak in an arrogant tone. Nobody likes that! "
+    "feedback": "Pontificate is to speak in an arrogant tone. Nobody likes that! "
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "The bank’s _______ contained hundreds of millions of dollars in cash and coins.",
     "answers": [
         "labratory",
@@ -364,7 +573,7 @@
     "correctAnswerIndex": 1,
     "feedback": "A repository is a place where things are kept safe, like a bank."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "The man’s ______ dress was a result of him being homeless for a month.",
     "answers": [
         "experienced",
@@ -375,7 +584,7 @@
     "correctAnswerIndex": 1,
     "feedback": "Slovenly means to be unkempt or messy. If you were homeless, you might look slovenly."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "When Jack was wrongly imprisoned for ten years, the state gave him five million dollars to _____ its mistake. ",
     "answers": [
         "rectify",
@@ -386,7 +595,7 @@
     "correctAnswerIndex": 0,
     "feedback": "Rectify is to correct a mistake. The government gave him money to rectify it's mistake."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE  Intermediate Vocabuary Practice",
     "question": "Almost nothing is known of the ____ history of the poet after his retirement.",
     "answers": [
         "rectify",
@@ -395,9 +604,9 @@
         "televise"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "Subsequent means appening or coming after something else, so we know little  about the poet after retireing."
+    "feedback": "Subsequent means happening or coming after something else, so we know little about the poet after retireing."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "Almost all the sculptured metopes are in the museum, and are of the highest interest to the student of _____ art.",
     "answers": [
         "archaic",
@@ -406,9 +615,9 @@
         "plumbing"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "The sculptures were old or archaic. "
+    "feedback": "The sculptures were old or archaic. Metopes? Who cares?"
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "Because the race is the biggest ______ event in the world, you will have to pay a fortune to watch the horses compete.",
     "answers": [
         "equine",
@@ -419,7 +628,7 @@
     "correctAnswerIndex": 0,
     "feedback": "Equine means to be horse like. So an equine event is a horse like event."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "As a devoted wife, I vow to love my husband in __________.",
     "answers": [
         "perpetuity",
@@ -428,11 +637,11 @@
         " nice attire"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "Perpetuity means forever. She will love him forever."
+    "feedback": "Perpetuity means forever. She will love him forever. Maybe. "
 },
 {
-    "category": "GRE Vocabuary Practice",
-    "question": "fallacious",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Fallacious has a similar meaning to:",
     "answers": [
         "deserved and unavoidable punishment for wrong doing ",
         "unlucky",
@@ -440,76 +649,76 @@
         "based on error"
     ],
     "correctAnswerIndex": 3,
-    "feedback": "It rested on a mass of legal assumptions and subtleties, fallacious indeed, but ingenious, and, as the result proved, effective."
+    "feedback": "It rested on a mass of legal assumptions and subtleties, fallacious and based on error."
 },
 {
-    "category": "GRE Vocabuary Practice",
-    "question": "quiescence",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Quiescence has a similar meaning to:",
     "answers": [
         "a loud domineering woman a scold or nag ",
         "customers",
-        "state of being passive/motionless ",
+        "state of being passive, motionless or quiet",
         "exuberance outburst of feeling"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "Many of the Icelandic volcanoes during their periods of quiescence are covered with snow and ice."
+    "feedback": "Many of the Icelandic volcanoes during their periods of quiescence or quiet are covered with snow and ice."
 }, {
-    "category": "GRE Vocabuary Practice",
-    "question": "beatify",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Beatify has a similar meaning to:",
     "answers": [
         "to attack verbally; denounce; deprecate ",
         "keep away from avoid ",
         "to go away suddenly (to avoid arrest) ",
-        "to bless; make happy or ascribe a virtue to"
+        "to bless or ascribe a virtue to"
     ],
     "correctAnswerIndex": 3,
-    "feedback": "The church was quick to beatify Mary for her role as the mother of Jesus. "
+    "feedback": "The church was quick to beatify Mary for her role as the mother of Jesus. Don't confuse this with beautify."
 }, {
-    "category": "GRE Vocabuary Practice",
-    "question": "enigma",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Enigma has a similar meaning to:",
     "answers": [
         "inclination ",
-        "polite manner; comforting; uninteresting",
+        "polite manner or comforting",
         "something that is puzzling ",
-        "roughness; harshness; ill temper; irritability "
+        "roughness or harshness "
     ],
     "correctAnswerIndex": 2,
     "feedback": "The reason that the source of the noise is such an enigma is that no one ever traced the sound when they heard it."
 }, {
-    "category": "GRE Vocabuary Practice",
-    "question": "skiff",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Skiff has a similar meaning to:",
     "answers": [
         "small boat",
         "having the qualities of a devil",
-        "sharp; piercing ",
+        "sharp or piercing ",
         "sealed by fusion "
     ],
     "correctAnswerIndex": 0,
     "feedback": "The fisherman hoped that the small skiff would be able to hold all of the fish."
 }, {
-    "category": "GRE Vocabuary Practice",
-    "question": "turbulence",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Turbulence has a similar meaning to:",
     "answers": [
-        "being uncontrollably violen",
+        "being uncontrollably violent",
         "misuse of a word (for one that resembles it) ",
         "tending to evade ",
-        "defying; imitation; unmatchable"
+        "defying imitation "
     ],
     "correctAnswerIndex": 0,
     "feedback": "The little plane danced and swayed in the turbulence, constantly buffeted by the increasing wind."
 }, {
-    "category": "GRE Vocabuary Practice",
-    "question": "vitiate",
+    "category": "GRE High Intermediate Vocabuary Practice",
+    "question": "Vitiate has a similar meaning to:",
     "answers": [
         "a manner of walking, stepping, or running",
         "blocked up",
-        "lower the quality weaken the strength ",
+        "lower the quality or weaken the strength ",
         "speak or behave so as to hide something (in mind) "
     ],
     "correctAnswerIndex": 2,
     "feedback": "You made a good decision, so don’t vitiate it by boasting about your success"
 }, {
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "On the talk show, the mean host usually tries to __________ her guests by reminding them of their misdeeds",
     "answers": [
         "vitiate",
@@ -518,9 +727,9 @@
         "pollinate"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "Yes, the host tried to put his guest down by denigrating him."
+    "feedback": "Yes, the host tried to put his guest down or denigrate him."
 }, {
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "Apart from exposure to societal _______, a second community-level risk is the dysfunctional informal social networks.",
     "answers": [
         "stigmas",
@@ -531,18 +740,18 @@
     "correctAnswerIndex": 0,
     "feedback": "Yes, a stigma is a mark of disgrace associated with a particular circumstance, quality, or person."
 }, {
-    "category": "GRE Vocabuary Practice",
-    "question": "vitiate",
+    "category": "GRE High Intermediate Vocabuary Practice",
+    "question": "Vitiate has a similar meaning to:",
     "answers": [
         "a manner of walking, stepping, or running",
         "blocked up",
-        "lower the quality weaken the strength ",
+        "lower the quality or weaken the strength ",
         "speak or behave so as to hide something (in mind) "
     ],
     "correctAnswerIndex": 2,
     "feedback": "You made a good decision, so don’t vitiate it by boasting about your success"
 }, {
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "It’s not uncommon to feel __________ for weeks or even months after major surgery.",
     "answers": [
         "lethargic",
@@ -551,21 +760,21 @@
         "pickled"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "Lethargic is to have little energy."
+    "feedback": "Lethargic is to have little energy. Pretty normal after an operation!"
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "enmity",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Enmity has a similar meaning to:",
     "answers": [
         "laziness ",
         "(agreement) stop of fighting for a time ",
         "a beggar ",
-        "hatred being an enemy "
+        "hatred or being an enemy "
     ],
     "correctAnswerIndex": 3,
-    "feedback": "  "
+    "feedback": "Enmity is another word for hatred. 'He was, however, murdered in Pondoland by a chief who was at enmity with the Zulus."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "edible",
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "Edible has a similar meaning to:",
     "answers": [
         "join (two ends)  ",
         "fearful timid afraid ",
@@ -573,78 +782,78 @@
         "pretend"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "The eco-loving Laguna Beach org's Saturday garden tour will focus on edibles and the environment."
+    "feedback": "The eco-loving Laguna Beach org's Saturday garden tour will focus on delicious edibles and the environment."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "epitome",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Epitome has a similar meaning to:",
     "answers": [
         "defect of character (a person is wrongly proud) ",
-        "brief summary representative example a typical model ",
+        "a person or thing that is a perfect example",
         "long strip worn round the waist",
         "reproving a person for his faults "
     ],
     "correctAnswerIndex": 1,
-    "feedback": "The Kenston senior was the epitome of agony at the end of his tennis match."
+    "feedback": "The Kenston senior was the epitome of skill at the end of his tennis match."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "forfeit",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Forfeit has a similar meaning to:",
     "answers": [
         "predominance ",
-        "praise; approval",
+        "praise or approval",
         "suffer the loss of something ",
         "alarm excited state of mind"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "The Ridgefield High girls lacrosse team had to forfeit a 17-6 regular-season win over Norwalk on May 17 for using two players who cheated."
+    "feedback": "The Ridgefield High girls team had to forfeit a 17-6 regular-season win over Norwalk on May 17 for using two players who cheated."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "heed",
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "Heed  has a similar meaning to:",
     "answers": [
         "quality of being limited; not extreme",
         "odious (of crime) ",
         "quality of being unskillful ",
-        "attention/give notice to "
+        "pay attention to "
     ],
     "correctAnswerIndex": 3,
     "feedback": "You should heed my warning and not ski down that dangerous slope."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "erratic",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Erratic has a similar meaning to:",
     "answers": [
         "reddish, healthy-looking",
         "irregular in behaviour or opinion",
         "fertile",
-        "criticism; anti-aircraft guns "
+        "criticism or anti-aircraft guns "
     ],
     "correctAnswerIndex": 1,
     "feedback": " He had been at Club 915 prior to his death but club workers asked him to leave because of his erratic behavior."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "tenacity",
+    "category": "GRE Intermkediate Vocabuary Practice",
+    "question": "Tenacity has a similar meaning to:",
     "answers": [
-        "firmness persistency adhesiveness tending to hang on",
+        "firmness or persistence",
         "large piece of cloth",
         "severely moral and strict simple and plain ",
         "melodious; harmonious"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "His most fearsome weapon was a relentless steellike tenacity."
+    "feedback": "His most fearsome weapon was a relentless steellike tenacity. He never gave up!"
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "beguile",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Beguile has a similar meaning to:",
     "answers": [
-        "to distress; create stress or torment ",
+        "to create stress or torment ",
         "exercises to develop strong bodies ",
         "passage that completes a piece of music",
-        "mislead or delude; cheat; pass time"
+        "charm or enchant someone"
     ],
-    "correctAnswerIndex": 2,
-    "feedback": "Marissa Meyer's favorite novels beguile, thrill and, above all, transport younger readers to a Shakespearean magical theater."
+    "correctAnswerIndex": 3,
+    "feedback": "Marissa Meyer's favorite novels beguile, thrill and, above all, transport younger readers to a magical world."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "asterisk",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Asterisk has a similar meaning to:",
     "answers": [
-        "the mark * (e.g.. omitted letters) ",
+        "the mark * ",
         "grow forth send out buds",
         "write hastily ",
         "scold sharply "
@@ -652,8 +861,8 @@
     "correctAnswerIndex": 0,
     "feedback": "The 2011/12 season will go down in the record books with an asterisk, and so too will the Superbowl Champion Cleveland Browns."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "recreancy",
+    "category": "GRE High Intermediate Vocabuary Practice",
+    "question": "Recreancy has a similar meaning to:",
     "answers": [
         "brave",
         "cowardly",
@@ -661,21 +870,21 @@
         "quibble"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "to act in a cowardly way. "
+    "feedback": "To act in a cowardly way. I was dishonorably discharged from the armed forces for my recreancy."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "petrous",
+    "category": "GRE High Intermediate Vocabuary Practice",
+    "question": "Petrous has a similar meaning to:",
     "answers": [
         "quick judging and understanding ",
         "to awaken or rouse",
-        "like a rock hard stony",
+        "like a rock hard or stony",
         "get something inquire too curiously"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "Something hard and stony. "
+    "feedback": "Something hard and stony well, like a bone."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "brittle",
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "Brittle has a similar meaning to:",
     "answers": [
         "cannot be cured or corrected",
         "crude; rude",
@@ -685,8 +894,8 @@
     "correctAnswerIndex": 3,
     "feedback": "Her heart was brittle because of her divorce."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "benefactor",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Benefactor has a similar meaning to:",
     "answers": [
         "customers ",
         "a loud domineering woman",
@@ -696,8 +905,8 @@
     "correctAnswerIndex": 2,
     "feedback": "Richard McNamara, an entrepreneur and one of the University of Minnesota's biggest benefactors, died Monday. "
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "voluptuous",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Voluptuous has a similar meaning to:",
     "answers": [
         "lively high-spirited",
         "projecting; prominent; undesirably noticeable",
@@ -705,32 +914,32 @@
         "intended to instruct "
     ],
     "correctAnswerIndex": 2,
-    "feedback": "Her curves are adored by men the world over and she is one of the most voluptuous stars of the moment"
+    "feedback": "Her curves are adored by men the world over and she is one of the most voluptuous stars of the moment."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "submerge",
+    "category": "GRE Basic Vocabuary Practice",
+    "question": "Submerge has a similar meaning to:",
     "answers": [
-        " make a humble petition to",
+        "make a humble petition to",
         "put under water and out of sight",
         "male bee person who isn't self-employed",
         "lower the quality weaken the strength"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "You submerge your feet, hands, or even your whole body in water and tiny little Garra Rufa fish do their work to nibble away your dead skin"
+    "feedback": "You submerge your feet, hands, or even your whole body in water, and tiny little fish do their work to nibble away your dead skin"
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "waffle",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Waffle has a similar meaning to:",
     "answers": [
         "curse",
         "step to one side",
         "talk vaguely and without much result",
-        "help/encourage somebody"
+        "help or encourage somebody"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "The polititian waffled when asked a difficult question."
+    "feedback": "The polititian waffled when asked a difficult question. Yes, they usually do that."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "imbroglio",
+    "category": "GRE High Intermediate Vocabuary Practice",
+    "question": "Imbroglio has a similar meaning to:",
     "answers": [
         "refuse to approve of",
         "a long passionate speech",
@@ -738,10 +947,10 @@
         "complicated and embarrassing situation"
     ],
     "correctAnswerIndex": 3,
-    "feedback": "But what does Dragon Tattoo director Fincher think of the embargo imbroglio? "
+    "feedback": "But what does Dragon Tattoo director Fincher think of the embargo imbroglio? He was quite embarassed. "
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "extempore",
+    "category": "GRE High Intermediate Vocabuary Practice",
+    "question": "Extempore has a similar meaning to:",
     "answers": [
         "illogical of questionable truth or merit",
         "spending using unwillingly",
@@ -749,21 +958,21 @@
         "humorous; funny; jocular"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "Speaking on 'The Role of the Banks in the Privatisation of the Power Sector', which he delivered extempore, Sanusi ..."
+    "feedback": "Speaking on 'The Role of the Banks in the Privatisation of the Power Sector', which he delivered extempore or without preparation, Sanusi ..."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "espouse",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Espouse has a similar meaning to:",
     "answers": [
         "examine thoroughly to learn about the condition",
         "To believe in",
         "taken away power ",
         "change direction"
     ],
-    "correctAnswerIndex": 0,
-    "feedback": "Men and women who believed in our country and the values which we espouse"
+    "correctAnswerIndex": 1,
+    "feedback": "Men and women who believed in our country and the values which we espouse."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "verdant",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Verdant has a similar meaning to:",
     "answers": [
         "collapse",
         "fresh and green",
@@ -771,21 +980,21 @@
         "causing no harm"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "Starting from scratch, the red soil was transformed into verdant land by 2009"
+    "feedback": "Starting from scratch, the red soil was transformed into verdant green land by 2009"
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "cohort",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Cohort has a similar meaning to:",
     "answers": [
         "secret agreement",
-        "To deprive (someone) of something",
+        "To deprive someone of something",
         "a group or band of people",
         "watchfulness self-appointed group who maintain order"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "Only three percent (n=181) of patients in the study cohort receiving anti-tumour necrosis factor agents"
+    "feedback": "Each cohort or group of students will be admitted to only one institution and will normally remain registered with that institution until graduation."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "odious",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Odious has a similar meaning to:",
     "answers": [
         "jesting",
         "repulsive; hateful",
@@ -793,9 +1002,9 @@
         "changeable inconstant"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "What makes Geert Wilders so odious is that he attacks an entire group based on ethnicity and religion."
+    "feedback": "What makes Geert Wilders so odious or hateful is that he attacks an entire group based on ethnicity and religion."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Low Intermediate Vocabuary Practice",
     "question": "concord",
     "answers": [
         "harmony",
@@ -803,22 +1012,22 @@
         "ugly",
         "trouble disturbance "
     ],
-    "correctAnswerIndex": 2,
-    "feedback": "To live in concord with others is our goal."
+    "correctAnswerIndex": 0,
+    "feedback": "To live in concord or harmony with others is our goal."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "shun",
+    "category": "GRE Low Intermediate Vocabuary Practice",
+    "question": "Shun has a similar meaning to:",
     "answers": [
         "suddenly changeable ",
         "instruct; correct morally",
         "steel tool for shaping materials",
-        "keep away from avoid "
+        "keep away from or avoid "
     ],
     "correctAnswerIndex": 3,
-    "feedback": "He said India would try to convince Pakistan through dialogue to shun terror as a state policy."
+    "feedback": "He said India would try to convince Pakistan through dialogue to shun or avoid terror as a state policy."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "quixotic",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Quixotic has a similar meaning to:",
     "answers": [
         "block",
         "fanciful, fantastic, imaginary",
@@ -826,43 +1035,43 @@
         "bad-tempered"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "His belief in aliens may be considered quixotic."
+    "feedback": "His belief in aliens may be considered quixotic, but his beliief that the world is flat is crazy."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "splice",
+    "category": "GRE Low Intermediate Vocabuary Practice",
+    "question": "Splice has a similar meaning to:",
     "answers": [
         "anticipating",
         "urgent",
         "foolish",
-        "join (two ends) "
+        "join (two ends)"
     ],
-    "correctAnswerIndex": 2,
-    "feedback": " "
+    "correctAnswerIndex": 3,
+    "feedback": "The sailors spliced the broken rope. "
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "finesse",
+    "category": "GRE Low Intermediate Vocabuary Practice",
+    "question": "Finesse has a similar meaning to:",
     "answers": [
         "getting farther apart",
         "delicate way of dealing with a situation ",
         "pick flowers",
-        " person who hates mankind "
+        "person who hates mankind "
     ],
     "correctAnswerIndex": 1,
-    "feedback": "It required all Elizabeths finesse to run with the hare and hunt with the hounds; but she was, as Henry III."
+    "feedback": "The chess champion played the game with a finesse that allowed him to easily beat all the other players."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "teetotal",
+    "category": "GRE Low Vocabuary Practice",
+    "question": "Teetotal has a similar meaning to:",
     "answers": [
         "dislike of alcohol",
-        " using pompous words",
+        "using pompous words",
         "eagerly desirous",
         "disobedient"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "They say they are all teetotalers and have never touched drugs."
+    "feedback": "They say they are all teetotalers and have never touched drugs or alcohol."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "testiness",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Testiness has a similar meaning to:",
     "answers": [
         "impatient and bad tempered",
         "witness",
@@ -870,10 +1079,10 @@
         "burning"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "​The testiness between the Huffington Post and New York Times continued late this week with "
+    "feedback": "​The testiness between the president and congress continued this week. "
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "severance",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Severance has a similar meaning to:",
     "answers": [
         "ending a connection or relationship",
         "able to use the left hand or the right equally well",
@@ -883,7 +1092,7 @@
     "correctAnswerIndex": 0,
     "feedback": "A severance payment was made to the former employee one month after she left the organization"
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Low Intermediate Vocabuary Practice",
     "question": "soot",
     "answers": [
         "covered in hair",
@@ -892,42 +1101,42 @@
         "easiy tricked"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "he leaned down; peering through the soot smudged glass on the stove door."
+    "feedback": "He leaned down, peering through the soot smudged glass on the stove door."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "consummate",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Consummate has a similar meaning to:",
     "answers": [
         "to turn to bone",
         "developed or visible",
         "get to the root of",
-        "to complete "
+        "to complete"
     ],
     "correctAnswerIndex": 3,
-    "feedback": "And yet behind the confident façade of consummate professionalism are a fragility and uncertainty"
+    "feedback": "And yet behind the confident façade of consummate or complete professionalism are a fragility and uncertainty"
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "cogitate",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Cogitate has a similar meaning to:",
     "answers": [
         "to clear from a charge of guilt",
-        "think deeply mediate",
+        "think deeply or mediate",
         "to awaken or rouse ",
         "try to win"
     ],
     "correctAnswerIndex": 1,
     "feedback": "Put your thinking cap on and cogitate upon the reasons why this will not work."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "prevalent",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Prevalent has a similar meaning to:",
     "answers": [
-        "biting sarcastic",
+        "biting or sarcastic",
         "common",
-        "crouch/settle without permission",
+        "crouch or settle without permission",
         "legal excuse"
     ],
     "correctAnswerIndex": 1,
     "feedback": "Infant deaths were especially prevalent among the very poor."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Low Intermediate Vocabuary Practice",
     "question": "palatial",
     "answers": [
         "needing effort",
@@ -936,20 +1145,20 @@
         "showing feeling"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "The suite has a palatial bedroom."
+    "feedback": "The suite has a palatial bedroom. Yes, it was like a palace!"
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "intersperse",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "Intersperse has a similar meaning to:",
     "answers": [
         "blocked up ",
         "to praise highly ",
         "swing loosely ",
-        " place here and there "
+        "place here and there "
     ],
     "correctAnswerIndex": 3,
     "feedback": "I always try to intersperse fragrant plants among my zinnias, rudbeckia and echinacea."
 },{
-    "category": "GRE Vocabuary Practice",
+    "category": "GRE Intermediate Vocabuary Practice",
     "question": "retinue",
     "answers": [
         "dangerous ",
@@ -960,8 +1169,8 @@
     "correctAnswerIndex": 3,
     "feedback": "The Queen was flanked by a retinue of bodyguards and policemen."
 },{
-    "category": "GRE Vocabuary Practice",
-    "question": "continue doing something",
+    "category": "GRE Intermediate Vocabuary Practice",
+    "question": "To continue doing something is to:",
     "answers": [
         "plot",
         "plod",
@@ -969,7 +1178,7 @@
         "foot"
     ],
     "correctAnswerIndex": 1,
-    "feedback": " "
+    "feedback": "He just plods along, day after day working on his novel."
 }
 
 
